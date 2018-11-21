@@ -1,0 +1,11 @@
+# mac
+._*
+
+# node.js
+#
+node_modules/
+npm-debug.log
+
+# VSCode
+.vscode
+tsconfig.json
