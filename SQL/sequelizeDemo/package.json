@@ -2,7 +2,7 @@
   "name": "sequelize-demo",
   "version": "1.0.0",
   "description": "A demo for sequelize.",
-  "repository":"",
+  "repository":"https://github.com/XinQiXiao/js-demo/blob/master/SQL/sequelizeDemo/README.md",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
