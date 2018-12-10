@@ -1,0 +1,16 @@
+{
+  "name": "sequelize-demo",
+  "version": "1.0.0",
+  "description": "A demo for sequelize.",
+  "repository":"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xin",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^1.6.4",
+    "sequelize": "^4.41.2"
+  }
+}
